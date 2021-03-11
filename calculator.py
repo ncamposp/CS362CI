@@ -1,5 +1,11 @@
-def addition (x, y):
-  return x + y
+"""
+Calculator app with basic methods.
+"""
 
-def subtraction (x, y):
-  return x-y
+
+def add(a, b):
+    return a + b
+
+
+def subtract(a, b):
+    return a - b
